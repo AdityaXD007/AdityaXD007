@@ -1,0 +1,27 @@
+public class Programmer {
+    private String programmingLanguage;
+    private int experienceYears;
+
+    // Default constructor
+    public Programmer() {
+        this.programmingLanguage = "Java"; // Default programming language
+        System.out.println("Default Constructor: Programming Language is " + this.programmingLanguage);
+    }
+
+    // Parameterized constructor
+    public Programmer(String programmingLanguage, int experienceYears) {
+        this.programmingLanguage = programmingLanguage;
+        this.experienceYears = experienceYears;
+        System.out.println("Parameterized Constructor: Programming Language is " + this.programmingLanguage);
+    }
+
+    // Method to display the number of years of experience
+    public void displayNoOfYears() {
+        System.out.println("Experience Years: " + this.experienceYears);
+    }
+
+    public static void main(String[] args) {
+        Programmer programmer = new Programmer();
+        programmer.displayNoOfYears();
+    }
+}
