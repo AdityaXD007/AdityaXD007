@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Bachelors Student,<br>2+ years experience as a Backend Django Developer,<br>Exploring Data Analysis, Data Science and Machine Learning  
+I am currently a BIT Graduate,<br> with 2+ years experience as a Backend Django Developer,<br>Exploring Data Analysis, Data Science and Machine Learning  
 
 
 ## 🌐 Socials:
